@@ -1,0 +1,117 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+
+
+.navbar{
+    background-color: white;
+    width: 100%;
+   
+}
+.navbar h1{
+    margin-left: 50px;
+}
+.navbar span{
+    font-size: 20px;
+    color: blue;
+    margin-left: 5px;
+}
+.pop img{
+    width: 100%;
+    height: 450px;
+}
+.ton p span{
+    text-decoration: line-through;
+  
+
+}
+.ton{
+    display: inline-block;
+    margin-left: 49px;
+    margin-bottom: 30px;
+}
+.eoe #bike{
+    text-align: center;
+    color: cyan;
+    font-size: 30px;
+    text-shadow: 2px 2px black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+   
+  
+}
+.ton-disc{
+    width: 325px;
+    background-color:white;
+}
+   
+
+.butt{
+    padding: 5px;
+    background-color:cyan ;
+    border-radius: 5px;
+  color: black;
+}
+.ton-disc .butt:hover{
+    cursor: pointer;
+   
+    background-color: white
+}
+
+.eoe{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+    
+}
+.ton{
+    margin-top: 30px;
+}
+ 
+.image{
+    width: 325px;
+    height: 225px;
+    overflow: hidden;
+  
+    
+}
+.image img{
+    width: 100%;
+    transition: transform 0.5s ease-in-out;
+}
+.image img:hover{
+    transform: scale(1.5);
+}
+
+.ror{
+    width: 100%;
+   
+   
+}
+
+.bar h2{
+   margin-top: 50px;
+   margin-bottom: 50px;
+    text-align: center;
+    font-size: 50px;
+    color: skyblue;
+    text-shadow: 2px 2px red
+
+ }
+
+ .bar p{
+     font-size: x-large;
+     margin-left: 150px;
+     margin-right: 150px;
+ }
+.ifram{
+margin: 100px;
+margin-left: 50px;
+
+}
+ 
